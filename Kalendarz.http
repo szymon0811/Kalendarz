@@ -1,0 +1,6 @@
+@Kalendarz_HostAddress = http://localhost:5212
+
+GET {{Kalendarz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
